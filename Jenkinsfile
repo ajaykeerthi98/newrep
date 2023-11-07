@@ -20,7 +20,7 @@ echo 'deploying....'
 }
   stage("result "){
 steps {
-echo 'result....' 
+echo 'result.1.2.3.4.5....' 
 }
 }
 }
