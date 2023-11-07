@@ -18,5 +18,10 @@ steps {
 echo 'deploying....' 
 }
 }
+  stage("result "){
+steps {
+echo 'result....' 
+}
+}
 }
 }
